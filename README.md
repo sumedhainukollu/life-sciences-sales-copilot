@@ -273,4 +273,3 @@ Generated content should not be treated as approved promotional material and mus
 
 ```
 
-*
