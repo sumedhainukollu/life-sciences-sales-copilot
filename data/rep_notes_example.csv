@@ -1,0 +1,6 @@
+hcp_name,hcp_specialty,institution,date,drug,topic,note_text
+Dr. Maria Chen,Oncology,Memorial City Hospital,2026-06-02,Drug X,Efficacy Data,"Asked about PFS data vs standard of care in second-line setting. Wants head-to-head numbers, not just single-arm."
+Dr. Maria Chen,Oncology,Memorial City Hospital,2026-07-14,Drug X,Safety,"Concerned about grade 3/4 neutropenia rates. Mentioned she has 2 patients currently on a competitor agent with tolerability issues."
+Dr. Samuel Osei,Cardiology,Lakeside Medical Group,2026-05-20,Drug Y,Dosing,"Wants clarity on renal-impairment dose adjustment. Prefers concise dosing chart over full label."
+Dr. Samuel Osei,Cardiology,Lakeside Medical Group,2026-08-01,Drug Y,Trial Design,"Skeptical of open-label trial design in pivotal study. Asked if any blinded confirmatory trial is underway."
+Dr. Priya Nair,Endocrinology,Northgate Clinic,2026-08-20,Drug Z,MSL Follow-up,"Requested MSL follow-up on mechanism of action question re: receptor selectivity. Flagged as high-priority KOL."

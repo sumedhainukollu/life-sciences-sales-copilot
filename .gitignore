@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# ChromaDB local vector database
+chroma_db/
+
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
